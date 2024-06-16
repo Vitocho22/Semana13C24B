@@ -9,6 +9,7 @@ using Semana13C24B.Data;
 using Semana13C24B.models;
 
 namespace Semana13C24B.Controllers
+    //sinche
 {
     [Route("api/[controller]")]
     [ApiController]
